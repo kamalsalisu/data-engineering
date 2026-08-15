@@ -1,0 +1,15 @@
+.venv
+*.parquet
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+.git
+.gitignore
+.env
+.DS_Store
+*.log
